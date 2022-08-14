@@ -14,7 +14,7 @@ body {
 
 .hero {
     background-color: #1F2937;
-    padding: 30px 200px 70px 200px;
+    padding: 30px 200px 70px 200px; 
 }
 
 .hero-logo,
@@ -56,7 +56,6 @@ body {
 .hero-container {
     display: flex;
     justify-content: space-around;
-    height: 300px;
     gap: 60px;
 }
 
@@ -161,6 +160,7 @@ body {
     color: #F9FAF8;
     font-size: 16px;
     font-weight: 700;
+    cursor: pointer;
 }
 
 .sign-up-section {
